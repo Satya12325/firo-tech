@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "name": "SATYABRATA DAS",
+      "mobile": "07978 544299",
+      "image": "blob:http://localhost:3001/3b27275d-7dd4-4742-8721-1a7886e35f72",
+      "job": "full Time",
+      "location": "India",
+      "email": "satya12325@gmail.com",
+      "DOB": "1996-11-11",
+      "id": 1
+    },
+    {
+      "name": "SATYABRATA DAS",
+      "mobile": "07978 544299",
+      "image": "blob:http://localhost:3001/3b27275d-7dd4-4742-8721-1a7886e35f72",
+      "job": "full Time",
+      "location": "India",
+      "email": "satya12325@gmail.com",
+      "DOB": "1996-11-11",
+      "id": 2
+    },
+    {
+      "name": "SATYABRATA DAS",
+      "mobile": "07978 544299",
+      "image": "blob:http://localhost:3001/3b27275d-7dd4-4742-8721-1a7886e35f72",
+      "job": "full Time",
+      "location": "India",
+      "email": "satya12325@gmail.com",
+      "DOB": "1996-11-11",
+      "id": 3
+    },
+    {
+      "name": "Anisha Jena",
+      "mobile": "08249842237",
+      "image": "blob:http://localhost:3001/42be8d22-6472-4e6a-a3bb-7694678ff781",
+      "job": "Part Time",
+      "location": "Mumbai",
+      "email": "satya12325@gmail.com",
+      "DOB": "1996-04-11",
+      "id": 4
+    }
+  ]
+}
